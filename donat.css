@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700&family=Oswald:wght@200;300;400;500;600;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*----------- bannar section start---------- */
+.header {
+    width: 1140px;
+   
+    margin-left: 97px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px
+
+}
+
+#top-banner {
+    background-image: url(donat_img/donation13.jpg), linear-gradient(rgb(7, 1, 1), gray);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%
+}
+
+.header-text h1 {
+    color: white;
+    font-size: 50px;
+    font-weight: 00;
+    text-transform: none;
+    text-align: center;
+    margin-top: 100px;
+    margin-left:
+}
+
+.header-text p {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 15px
+}
+
+.header-text {
+    width: 600px;
+    margin: auto;
+
+
+}
+
+.header-btn a {
+    text-align: center;
+    background: #012AE8;
+
+    color: white;
+    padding: 15px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 20px;
+    background: linear-gradient(lightsalmon, rgb(235, 43, 10))
+
+}
+
+.header-btn {
+    margin-bottom: 100px;
+    margin-top: 40px;
+    
+
+}
