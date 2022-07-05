@@ -87,6 +87,8 @@ p {
     width: 1140px;
     margin: auto;
     text-align: center;
+    margin-bottom: 50px
+
 }
 
 #donate {
@@ -143,7 +145,8 @@ p {
     margin-bottom: 40px;
 
 
-    padding-bottom: 250px;
+    padding-bottom: 200px;
+
 }
 
 .donate-btn a {
@@ -155,8 +158,11 @@ p {
     text-decoration: none;
 
     border-radius: 20px;
-    background: #939499;
+    background: white;
     font-weight: 900;
     font-size: 20px;
-    margin-left: 30px
+    margin-left: 30px;
+    margin-top: 150px;
+    border: 2px solid gray;
+    
 }
