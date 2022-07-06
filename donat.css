@@ -88,12 +88,13 @@ p {
     margin: auto;
     text-align: center;
     margin-bottom: 20px;
-    
+
 
 }
 
 #donate {
     margin-top: 60px;
+    margin-bottom: 100px;
 }
 
 .donate-header h1 {
@@ -160,12 +161,13 @@ p {
     text-decoration: none;
 
     border-radius: 15px;
-    background:gray;
+    background: gray;
     font-weight: 900;
     font-size: 25px;
     margin-left: 30px;
     margin-top: 150px;
     border: 2px solid gray;
+
 
 }
 
@@ -179,6 +181,103 @@ p {
     margin-left: 23px;
     padding-bottom: 15px
 }
-                        /*  -----donate section end */
+
+/*  -----donate section end */
 
 
+/* ---------our team plan section start */
+.plan-contain {
+    width: 1140px;
+    text-align: center;
+    padding-bottom: 50px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#donate-plan {
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.plan-header h1{
+    font-size: 30px;
+}
+.plan-header p{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #575757
+}
+.plan-boxes {
+    margin-top: 40px;
+    margin-bottom: 80px;
+
+
+    padding-bottom: 200px;
+
+
+}
+.plan_single_box{
+   
+   width: 300px;
+   padding: 20px;
+   padding-top: 60px;
+   padding-bottom: 60px;
+   float: left;
+   margin-left: 30px;
+
+    
+}
+.box_contain p{
+    color: gray;
+    font-size: 14px
+}
+.box_contain h3{
+    padding: 15px;
+    padding-bottom: 15px
+}
+
+.plan_single_box3{
+   
+    width: 300px;
+    padding: 20px;
+    padding-top: 60px;
+    padding-bottom: 0px;
+    float: left;
+   padding-bottom: 45px;
+   margin-left: 30px;
+   background: #c9f0e1;
+   box-shadow: 5px 7px 20px grey;
+ 
+     
+ }
+ .plan_single_box2{
+   
+    width: 300px;
+    padding: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    float: left;
+    margin-left: 30px;
+    background: #e7c1e4;
+    box-shadow: 5px 7px 20px grey;
+ 
+     
+ }
+ .plan_single_box1{
+    
+    width: 300px;
+    padding: 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    float: left;
+    margin-left: 30px;
+    background: #bce3f3;
+    box-shadow: 5px 7px 20px grey;
+     
+ }
+
+/* ---------our team plan section end */
